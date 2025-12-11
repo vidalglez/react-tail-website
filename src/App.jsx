@@ -1,9 +1,8 @@
 function App() {
-
   return (
     <>
       <div>
-          <h1>Initial template</h1>
+        <h1 className="text-red-500">Initial template</h1>
       </div>
     </>
   )
